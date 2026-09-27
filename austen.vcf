@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cox;Austen;;;
+FN:Austen Cox
+ORG:Scry Labs, Inc.
+TITLE:Founder & CEO
+EMAIL;TYPE=WORK:austen@scry.events
+TEL;TYPE=CELL:+15052030390
+URL:https://scry.events
+END:VCARD
